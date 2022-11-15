@@ -3,7 +3,7 @@ harel client and server side
 
 
 ## server side :
-* framework: netbeans 8.2
+* IDE: netbeans 8.2
 * server: glassfish 4.1
 * put the users.csv in your local mashin at c:\\
 * put the customers.csv in your local mashin at c:\\
